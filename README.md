@@ -1,2 +1,2 @@
 # tabnews
-teste cosole
+teste console
